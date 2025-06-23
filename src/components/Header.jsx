@@ -10,8 +10,8 @@ const Header = () => {
     <nav className="w-full px-6 py-4 flex items-center text-white justify-between shadow-sm
      bg-[#1C1C1E] fixed top-0 z-50">
       <div className="flex items-center gap-2">
-        <ImScissors className="text-4xl text-white" />
-        <b className="text-xl">ALI BARBER</b>
+        <ImScissors className="text-4xl text-[#C0A062]" />
+        <b className="text-xl text-[#C0A062]">ALI BARBER</b>
       </div>
 
       {/* Desktop Menu */}

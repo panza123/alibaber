@@ -24,12 +24,12 @@ const About = () => {
   return (
     <section
       id="about"
-      className="min-h-screen px-6 py-12 bg-[#1E1E1E] md:flex flex-row justify-between items-center gap-8 max-w-7xl mx-auto"
+      className="min-h-screen px-6 py-12 bg-[#00FF7F] md:flex flex-row justify-between items-center gap-8 max-w-7xl mx-auto"
     >
       {/* Text Content */}
       <div className="md:max-w-lg">
         <h2 className="text-[#C0A062] text-3xl mb-6 font-medium">About Us</h2>
-        <p className="text-gray-300 mb-4 leading-relaxed">
+        <p className="text-black mb-4 leading-relaxed">
           At Ali Barber, we're more than just a barbershop — we're a lifestyle.
           Founded on tradition and driven by style, our shop is a place where
           precision meets passion. Whether you're looking for a clean fade, a
@@ -37,7 +37,7 @@ const About = () => {
           barbers is here to deliver top-tier service in a laid-back, welcoming
           environment.
         </p>
-        <p className="text-gray-300 leading-relaxed mb-4">
+        <p className="text-black leading-relaxed mb-4">
           With years of experience and an eye for detail, we take pride in every
           cut. Each visit is more than just a haircut — it's a moment to relax,
           reset, and walk out feeling your absolute best. We cater to the modern
@@ -46,7 +46,7 @@ const About = () => {
           craftsmanship, comfort, and confidence. Come in, kick back, and let us
           take care of the rest.
         </p>
-        <p className="text-gray-300 leading-relaxed">
+        <p className="text-black leading-relaxed">
           We believe grooming is about more than just looking good — it’s about
           feeling great. That’s why we take time to understand your style goals
           and provide tailored advice to keep you looking your best between

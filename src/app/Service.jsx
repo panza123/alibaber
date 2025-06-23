@@ -35,7 +35,9 @@ const Service = () => {
           {[FaScissors, GiComb, TbBladeFilled].map((Icon, i) => (
             <div
               key={i}
-              className="p-5 bg-[#C0A062] rounded-xl shadow-md hover:rotate-3 hover:scale-105 transition-transform duration-300 cursor-pointer"
+              className="p-5 bg-[#C0A062] rounded-xl 
+              shadow-md hover:rotate-3 hover:scale-105 transition-transform 
+              duration-300 cursor-pointer"
             >
               <Icon size={60} className="text-black" />
             </div>

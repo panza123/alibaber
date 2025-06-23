@@ -9,8 +9,8 @@ const Footer = () => {
         {/* Brand / Logo */}
         <div>
          <div className="flex items-center gap-2">
-                 <ImScissors className="text-4xl text-white" />
-                 <b className="text-xl">ALI BARBER</b>
+                 <ImScissors className="text-4xl text-[#C0A062]" />
+                 <b className="text-xl text-[#C0A062]">ALI BARBER</b>
                </div>
           <p className="text-sm text-gray-400 pt-3">
             Clean cuts, sharp style. Experience premium grooming services with us.
